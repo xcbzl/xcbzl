@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @xcbzl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 全新UI壁纸小程序
+- 
+— 预览请在微信小程序搜索 鱼干壁纸
 
-<!---
-xcbzl/xcbzl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫需要源码的联系QQ：2906519757
